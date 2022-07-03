@@ -134,7 +134,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.3",
-    "buildNumber": 3,
+    "appVersion": "0.0.5",
+    "buildNumber": 5,
     "runtimeUrl": "https://expenseapp159-sandbox.mxapps.io/"
 }
